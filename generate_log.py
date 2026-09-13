@@ -33,7 +33,7 @@ def generate_log(data):
 
     print(f"Log written to {filename}")
 
-    pass
+    return filename
 
 
 if __name__ == "__main__":
